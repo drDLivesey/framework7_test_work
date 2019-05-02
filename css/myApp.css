@@ -1,0 +1,17 @@
+/* A bit of demo styles */;
+.demo-swiper .swiper-slide {
+  font-size: 25px;
+  font-weight: 300;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  color: #000;
+}
+
+.demo-swiper {
+  margin: 0px 0 35px;
+  font-size: 72px;
+  height: 200px;
+  text-align: center;
+}
